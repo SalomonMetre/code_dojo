@@ -1,0 +1,4 @@
+total 12
+-rw-r--r-- 1 smonk smonk 220 Jul  6 14:54 query_api_laravel.py
+-rw-r--r-- 1 smonk smonk 424 Aug  1 23:44 query_arxiv_api.py
+-rw-r--r-- 1 root  root  226 Aug 22 17:28 save_terminal_output.py
